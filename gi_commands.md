@@ -1,0 +1,3 @@
+for cloning the git repository/document
+...
+git clone url
